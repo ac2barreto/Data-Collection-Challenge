@@ -3,6 +3,7 @@ This new assignment consists of two technical products. You will submit the foll
 -Deliverable 1: Scrape titles and preview text from Mars news articles. (part_1_mars_news)
 -Deliverable 2: Scrape and analyze Mars weather data, which exists in a table. (part_2_mars_weather)
 
+Scraping from "https://static.bc-edx.com/data/web/mars_news/index.html" and "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
 # Table of Contents:
 - [Introduction](#introduction)
 - [Usage](#usage)
